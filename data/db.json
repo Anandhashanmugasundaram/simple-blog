@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "id": "77b0",
+      "title": "List of anime ",
+      "body": "One Piece\nNaruto\nBleach\nDragon Ball\nMonster\nDarling in the Franxx\nOdd Taxi\nAttack on Titan (AOT)\nOverlord\nMy Isekai Life\nJobless Reincarnation\nDo Not Summon Demon King Diablo\nThat Time I Got Reincarnated as a Slime\nOne Punch Man\nDemon Slayer\nJujutsu Kaisen (JJK)\nSukimichi: Moonlit Fantasy\nAm I Actually the Strongest?\nDeath Note\nHunter x Hunter (HxH)\nMob Psycho 100\nVinland Saga\nGurren Lagann\nBlack Clover\nRagnarok (Record of Ragnarok)",
+      "author": "umesh"
+    }
+  ]
+}
